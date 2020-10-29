@@ -18,7 +18,7 @@ import lombok.NoArgsConstructor;
 public class Expense {
     @Id
     private Long id;
-    private Date expenseDate;
+    private String expenseDate;
     private String description;
     
 }
