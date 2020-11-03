@@ -1,8 +1,7 @@
 package com.example.vizu.abc.model;
 
-import javax.persistence.CascadeType;
 import javax.persistence.Id;
-import javax.persistence.ManyToOne;
+//import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
 import lombok.AllArgsConstructor;
